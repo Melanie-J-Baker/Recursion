@@ -18,3 +18,5 @@ const mergeSort = (arr) => {
   
     return mergedArr.concat(leftArr, rightArr);
   }
+
+  console.log(mergeSort([1, 9, -3, 5, 10, 3]));
