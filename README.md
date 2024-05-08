@@ -1,4 +1,6 @@
-# Recursion (part of The Odin Project curriculum)
+# Recursion 
+
+(part of The Odin Project curriculum)
 
 Assignment One - Fibonacci Sequence
 
